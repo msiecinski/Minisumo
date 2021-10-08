@@ -8,5 +8,6 @@ Source file, pcb and stl files.
 - 10 x 10 cm
 - 500 g
 - 4 x pololu HPCB 15:1 6V motor
+- 4 x encoders(1 for each wheel)
 
 
