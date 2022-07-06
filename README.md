@@ -3,7 +3,7 @@ Source file, pcb and stl files.
 
 ## Design assumptions:
 - 4 wheels
-- stm32f446 MCU
+- STM32H753VIT6 MCU
 - used start module
 - 10 x 10 cm
 - 500 g
